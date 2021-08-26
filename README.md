@@ -2,7 +2,7 @@
 
 - Dec, Bin, Hex, and Oct converter
 
-Build:
+VSCode build process:
 
 - For Windows users, cd to build folder, then run command "./build.bat", an
 executable file "main.exe" will be created, run program by command "./main.exe"
